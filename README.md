@@ -1,13 +1,16 @@
-High school student who doesn't know what they're doing here \n
-Can Write In: \n
-  Python \n
-  Java \n
-  Javascript \n
-  HTML \n
-  CSS \n
-Can Read: \n
-  C# \n
-  C++ \n  
+High schooler who doesn't know what they're doing here <br>
+<br>
+Can Write In: <br>
+  Python <br>
+  Java <br>
+  Javascript <br>
+  HTML <br>
+  CSS <br>
+<br>
+Can Read: <br>
+  C# <br>
+  C++ <br>
+<br>
 Contact --> ameliafarrugia04@gmail.com
 
 <!---
