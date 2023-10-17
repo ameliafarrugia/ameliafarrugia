@@ -1,4 +1,4 @@
-High schooler who doesn't know what they're doing here <br>
+College student who doesn't know what they're doing here <br>
 <br>
 Can Write In: <br>
   Python <br>
